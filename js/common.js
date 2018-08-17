@@ -157,7 +157,7 @@ function contact_form_submit(){
      =============================================== */
 
     var iconBase = 'img/google-marker.png';
-    var myLatlng = new google.maps.LatLng(37.714679, ,-122.1467378);
+    var myLatlng = new google.maps.LatLng(37.714679,-122.1467378);
 
     var mapContainer = document.getElementById('map');
     var mapOptions = {
