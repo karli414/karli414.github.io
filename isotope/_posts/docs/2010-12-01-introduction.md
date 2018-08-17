@@ -29,7 +29,7 @@ toc:
 Isotope may be used in commercial projects and applications with the one-time purchase of a commercial license. [Read more about Isotope commercial licensing.](license.html)
 
 
-<p>{% include developer-buy-button.html %} {% include org-buy-button.html %}</p>
+<!--<p>{% include developer-buy-button.html %} {% include org-buy-button.html %}</p>-->
 
 Purchasing accepts most credit cards and takes seconds. Once purchased, you'll receive a commercial license PDF and you will be all set to use Isotope in your commercial applications.
 
