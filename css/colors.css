@@ -13,7 +13,8 @@ p {
 /*heading border*/
 
 .m-heading-border {
-    background-color: #62b7a4;
+    background-color: #731245;
+    /* old color : #62b7a4 */
 }
 
 /* SPLASH IMAGE */
@@ -39,7 +40,8 @@ p {
 /*navigation*/
 
 .l-navigation-wrap {
-    background-color: #E74C3C;
+    background-color: #29656D;
+    /*#E74C3C;*/
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -70,18 +72,18 @@ p {
 }
 
 .news-content h6 a:hover {    
-    color: #1abc9c;    
+    color: #5e5e5e;    
 }
 
 .news-button {
-    background-color: #1abc9c;
-    border: 1px solid #1abc9c;
+    background-color: #5e5e5e;
+    border: 5px solid #ffffff;
     color: #fff;
 }
 
 .news-button:hover {
-    background-color: transparent;
-    color: #1abc9c;    
+    /*background-color: transparent;*/
+    color: #fff;    
 }
 
 .image-hover .categories a, .image-hover .categories {
@@ -110,7 +112,8 @@ p {
 /* TECHNICAL SKILLS SECTION */
 
 .l-skills-section {
-    background-color: #34495e;
+    background-color: #8A3480;
+    /*#34495e;*/
 }
 
 .l-skills-section h1 , .l-skills-section p, .l-skills-section h2, .l-skills-section h3, .l-skills-section h4, .l-skills-section h5, .l-skills-section h6 {
@@ -132,7 +135,7 @@ p {
 }
 
 .l-gallery-section .m-heading-border {
-    background-color: #d66969;
+    background-color: #731245;
 }
 
 .l-gallery-section {
@@ -204,7 +207,8 @@ p {
 }
 
 .l-contactus-section {
-    background-color: #E74C3C;
+    background-color: #29656D; 
+    /*#E74C3C;*/
     color: #fff;
 }
 
@@ -223,7 +227,7 @@ p {
 
 
 .l-map-section .m-heading-border {
-    background-color: #d66969;
+    background-color: #731245;
 }
 
 .l-contactus-section h1, .l-contactus-section h2, .l-contactus-section h3, .l-contactus-section h4, .l-contactus-section h5, .l-contactus-section h6 {
