@@ -432,7 +432,7 @@ jQuery(window).load(function() {
                 lineWidth: 16,
                 size: 175,
                 scaleColor: false,
-                barColor: '#1ABC9C',
+                barColor: '#E19559',
                 trackColor: '#e5e5e5',
                 onStep: function(from, to, percent) {
                     jQuery(this.el).find('.percent').text(Math.round(percent));
