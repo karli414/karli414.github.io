@@ -13,7 +13,7 @@ p {
 /*heading border*/
 
 .m-heading-border {
-    background-color: #731245;
+    background-color: #AB6459;
     /* old color : #62b7a4 */
 }
 
@@ -40,7 +40,7 @@ p {
 /*navigation*/
 
 .l-navigation-wrap {
-    background-color: #29656D;
+    background-color: #5a666c;
     /*#E74C3C;*/
 }
 
@@ -112,7 +112,7 @@ p {
 /* TECHNICAL SKILLS SECTION */
 
 .l-skills-section {
-    background-color: #8A3480;
+    background-color: #7B3F44;
     /*#34495e;*/
 }
 
@@ -135,7 +135,7 @@ p {
 }
 
 .l-gallery-section .m-heading-border {
-    background-color: #731245;
+    background-color: #AB6459;
 }
 
 .l-gallery-section {
@@ -162,7 +162,7 @@ p {
 }
 
 .l-team-section .m-heading-border {
-    background-color: #fff;
+    background-color: #AB6459;
 }
 
 .member-description {
@@ -227,7 +227,7 @@ p {
 
 
 .l-map-section .m-heading-border {
-    background-color: #731245;
+    background-color: #AB6459;
 }
 
 .l-contactus-section h1, .l-contactus-section h2, .l-contactus-section h3, .l-contactus-section h4, .l-contactus-section h5, .l-contactus-section h6 {
