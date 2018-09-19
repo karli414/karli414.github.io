@@ -126,7 +126,7 @@ function contact_form_submit(){
         cursorwidth: 15,
         autohidemode: false,
         background: '#ededed',
-        cursorcolor: '#4abc96',
+        cursorcolor: '#7b3f44',
         cursorborderradius: 0,
         cursorborder: 'none'
     });
